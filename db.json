@@ -1,6 +1,4 @@
-{
-
-"student":[
+{ "student":[
   {
     "Name": "Tarik",
     "PhoneNo": "9876543212",
@@ -78,60 +76,6 @@
     "PhoneNo": "9876543212",
     "EmailId": "ac.metus.vitae@nonjusto.net",
     "Country": "Kazakhstan"
-  },
-  {
-    "Name": "Evan",
-    "PhoneNo": "9876543212",
-    "EmailId": "felis.Nulla.tempor@ipsumdolorsit.ca",
-    "Country": "Ecuador"
-  },
-  {
-    "Name": "Ishmael",
-    "PhoneNo": "9876543212",
-    "EmailId": "laoreet.libero.et@orciin.co.uk",
-    "Country": "Ethiopia"
-  },
-  {
-    "Name": "Mason",
-    "PhoneNo": "9876543212",
-    "EmailId": "imperdiet.erat@egetmassa.co.uk",
-    "Country": "Lithuania"
-  },
-  {
-    "Name": "Finn",
-    "PhoneNo": "9876543212",
-    "EmailId": "nibh.sit.amet@ante.edu",
-    "Country": "Central African Republic"
-  },
-  {
-    "Name": "Kasimir",
-    "PhoneNo": "9876543212",
-    "EmailId": "Integer.urna.Vivamus@iaculis.com",
-    "Country": "South Sudan"
-  },
-  {
-    "Name": "Erich",
-    "PhoneNo": "9876543212",
-    "EmailId": "est.arcu.ac@malesuadaaugueut.co.uk",
-    "Country": "Nigeria"
-  },
-  {
-    "Name": "Caldwell",
-    "PhoneNo": "9876543212",
-    "EmailId": "magna.malesuada.vel@rutrum.net",
-    "Country": "Vanuatu"
-  },
-  {
-    "Name": "Davis",
-    "PhoneNo": "9876543212",
-    "EmailId": "et.nunc@ullamcorper.co.uk",
-    "Country": "Ukraine"
-  },
-  {
-    "Name": "Ignatius",
-    "PhoneNo": "9876543212",
-    "EmailId": "sed@Integer.edu",
-    "Country": "Dominica"
   }
 ]
 }
